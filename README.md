@@ -11,13 +11,6 @@ Módulo para consulta do CNPJ na base da Receita Federal do Brasil.
 
 ## Autor
 
-* **Antonelli Santos** - [Antonelli Santos](https://github.com/antonellisantos)
-
-## Quem Contribuiu
-
-* **Jean Carlo Nascimento** - [Jean Carlo Nascimento](https://github.com/suissa)
-* **Carlos Carvalho** - [Carlos Carvalho](https://github.com/josecarlosweb)
-* **Daniel Salles** - [Daniel Salles](https://github.com/danielsalles)
 * **Gabriel Lopes** - [Gabriel Lopes](https://github.com/biutas)
 
 ## Instalação
@@ -62,4 +55,3 @@ const moreData = consultaCnpj.getAdvancedInfos(sessionId); // Objeto com as info
 ## Licença
 
 Este projeto é licenciado sob o modelo MIT License - veja [LICENSE.md](LICENSE.md) para mais detalhes.
-

@@ -1,6 +1,6 @@
 {
-  "name": "consulta-cnpj",
-  "version": "1.0.0",
+  "name": "consulta-cnpj-rfb",
+  "version": "1.0.1",
   "description": "Módulo de consulta ao CNPJ na base da Receita Federal.",
   "main": "./index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "watch": "nodemon --exec \"npm start\"",
     "example": "node example/server.js"
   },
-  "author": "Antonelli Santos",
+  "author": "Gabriel Lopes",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antonellisantos/consultaCnpj.git"
+    "url": "https://github.com/HauzWeb/consultaCNPJRFB.git"
   }
 }
