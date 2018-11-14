@@ -1,5 +1,3 @@
-# DESCONTINUADO
-
 # Consulta CNPJ
 
 Módulo para consulta do CNPJ na base da Receita Federal do Brasil.
@@ -20,6 +18,7 @@ Módulo para consulta do CNPJ na base da Receita Federal do Brasil.
 * **Jean Carlo Nascimento** - [Jean Carlo Nascimento](https://github.com/suissa)
 * **Carlos Carvalho** - [Carlos Carvalho](https://github.com/josecarlosweb)
 * **Daniel Salles** - [Daniel Salles](https://github.com/danielsalles)
+* **Gabriel Lopes** - [Gabriel Lopes](https://github.com/biutas)
 
 ## Instalação
 
