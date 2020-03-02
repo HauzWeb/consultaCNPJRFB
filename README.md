@@ -1,3 +1,15 @@
+# [DEPRECATED] 
+
+Devido a RFB disponibilizar a base completa de CNPJs, a dependência não é mais necessária.
+
+Baixe os 20 arquivos no site da RFB [aqui](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj).
+
+Use o [CNPJ-full](https://github.com/fabioserpa/CNPJ-full) para converter os dados para CSV ou SQLITE.
+
+Após convertido, importe no banco de dados que preferir.
+
+(O download e a conversão pode demorar algumas horas)
+
 # Consulta CNPJ
 
 Módulo para consulta do CNPJ na base da Receita Federal do Brasil.
